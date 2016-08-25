@@ -1,2 +1,6 @@
 <ios.h>
-printf("hello world\n");
+void main()
+{
+  printf("hello world\n");
+  return 0;
+}
